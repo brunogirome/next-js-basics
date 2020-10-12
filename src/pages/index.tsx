@@ -13,7 +13,7 @@ interface IHomeProps {
 export default function Home({ recommendedProducts }: IHomeProps) {
 
   async function handleSum() {
-    const { default: math } = await import ('../lib/math');
+    const { default: math } = await import ('@/lib/math');
 
     alert(math.sum(13, 5));
   }
