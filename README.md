@@ -1,3 +1,11 @@
+# Next.Js basic features from Rocketset tutorial
+
+## Introduction
+
+This application was made based on generic features of Next.Js. It will be used on future application as referance. Most of commits have description of what was made and what is the point of using it.
+
+## Next.Js default features
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
